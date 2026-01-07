@@ -2,6 +2,8 @@
 
 A powerful and user-friendly Streamlit application for automated exploratory data analysis (EDA). Upload your CSV or Excel files and instantly get comprehensive data insights, visualizations, and statistical summaries.
 
+🚀 **Live Demo**: [https://auto-eda-dashboard.streamlit.app/](https://auto-eda-dashboard.streamlit.app/)
+
 ## Features
 
 - **File Upload Support**: Upload CSV or Excel files with ease
@@ -19,7 +21,12 @@ A powerful and user-friendly Streamlit application for automated exploratory dat
 
 ## Installation
 
-### Prerequisites
+### Try the Live App
+The app is **already deployed and live**! Visit [https://auto-eda-dashboard.streamlit.app/](https://auto-eda-dashboard.streamlit.app/) to start analyzing your data right now.
+
+### Run Locally
+
+#### Prerequisites
 - Python 3.8 or higher
 - pip (Python package manager)
 
